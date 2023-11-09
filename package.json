@@ -3,5 +3,10 @@
   "uuid": "c1a3caf7-8061-4c47-956e-1c57326cd642",
   "creator": {
     "version": "3.8.1"
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:feifeigd/HelloCocos2D.git",
+  "author": "feifeigd <feifeigd@21cn.com>",
+  "license": "MIT"
 }
